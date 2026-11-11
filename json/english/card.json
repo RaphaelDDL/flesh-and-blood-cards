@@ -1,5 +1,509 @@
 [
     {
+        "unique_id": "KCQKDTqTpcpczRfq77wjQ",
+        "name": "Adaptive Cadaver",
+        "color": "Blue",
+        "pitch": "3",
+        "cost": "3",
+        "power": "",
+        "defense": "",
+        "health": "",
+        "intelligence": "",
+        "arcane": "",
+        "types": [
+            "Necromancer",
+            "Instant",
+            "Equipment"
+        ],
+        "traits": [],
+        "card_keywords": [
+            "Modular"
+        ],
+        "abilities_and_effects": [
+            "Instant"
+        ],
+        "ability_and_effect_keywords": [],
+        "granted_keywords": [],
+        "removed_keywords": [],
+        "interacts_with_keywords": [],
+        "functional_text": "Equip this.\n\n**Modular**\n\n**Instant** - Destroy this: Prevent the next 3 damage that would be dealt to you this turn.",
+        "functional_text_plain": "Equip this.\nModular\nInstant - Destroy this: Prevent the next 3 damage that would be dealt to you this turn.",
+        "type_text": "Necromancer Instant Equipment",
+        "played_horizontally": false,
+        "blitz_legal": false,
+        "cc_legal": false,
+        "commoner_legal": false,
+        "ll_legal": false,
+        "silver_age_legal": false,
+        "blitz_living_legend": false,
+        "cc_living_legend": false,
+        "blitz_banned": false,
+        "cc_banned": false,
+        "commoner_banned": false,
+        "ll_banned": false,
+        "silver_age_banned": false,
+        "upf_banned": false,
+        "blitz_suspended": false,
+        "cc_suspended": false,
+        "commoner_suspended": false,
+        "ll_restricted": false,
+        "printings": [
+            {
+                "unique_id": "kkdTNN8twTjRzFwLhjWMr",
+                "set_printing_unique_id": "B8Nwc79RrDqgRrqPCczFb",
+                "id": "LSS033",
+                "set_id": "LSS",
+                "edition": "N",
+                "foiling": "C",
+                "rarity": "P",
+                "expansion_slot": false,
+                "artists": [
+                    "Sam Yang"
+                ],
+                "art_variations": [
+                    "FA"
+                ],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/LSS033-MV.webp",
+                "image_rotation_degrees": 0
+            }
+        ]
+    },
+    {
+        "unique_id": "qzjgnmQ8LKNzh9rzhzrhb",
+        "name": "Cut to Shreds",
+        "color": "Red",
+        "pitch": "1",
+        "cost": "3",
+        "power": "7",
+        "defense": "3",
+        "health": "",
+        "intelligence": "",
+        "arcane": "",
+        "types": [
+            "Necromancer",
+            "Action",
+            "Attack"
+        ],
+        "traits": [],
+        "card_keywords": [
+            "Piercing 2"
+        ],
+        "abilities_and_effects": [],
+        "ability_and_effect_keywords": [],
+        "granted_keywords": [],
+        "removed_keywords": [],
+        "interacts_with_keywords": [],
+        "functional_text": "When this attacks, you may {t} a shears you control. If you do, this gets **piercing 2**.",
+        "functional_text_plain": "When this attacks, you may {t} a shears you control. If you do, this gets piercing 2.",
+        "type_text": "Necromancer Action - Attack",
+        "played_horizontally": false,
+        "blitz_legal": false,
+        "cc_legal": false,
+        "commoner_legal": false,
+        "ll_legal": false,
+        "silver_age_legal": false,
+        "blitz_living_legend": false,
+        "cc_living_legend": false,
+        "blitz_banned": false,
+        "cc_banned": false,
+        "commoner_banned": false,
+        "ll_banned": false,
+        "silver_age_banned": false,
+        "upf_banned": false,
+        "blitz_suspended": false,
+        "cc_suspended": false,
+        "commoner_suspended": false,
+        "ll_restricted": false,
+        "printings": [
+            {
+                "unique_id": "6qPHmhN7rrzr7Pjhjr8tf",
+                "set_printing_unique_id": "B8Nwc79RrDqgRrqPCczFb",
+                "id": "LSS027",
+                "set_id": "LSS",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "P",
+                "expansion_slot": false,
+                "artists": [
+                    "Alif Zahrah"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/LSS027.webp",
+                "image_rotation_degrees": 0
+            }
+        ]
+    },
+    {
+        "unique_id": "HCh7PjKLBtRq6kNjpFJR8",
+        "name": "Death's Door Knocker",
+        "color": "Blue",
+        "pitch": "3",
+        "cost": "3",
+        "power": "",
+        "defense": "2",
+        "health": "",
+        "intelligence": "",
+        "arcane": "",
+        "types": [
+            "Necromancer",
+            "Action",
+            "Equipment",
+            "Arms"
+        ],
+        "traits": [],
+        "card_keywords": [
+            "Battleworn"
+        ],
+        "abilities_and_effects": [
+            "Action"
+        ],
+        "ability_and_effect_keywords": [
+            "Go again"
+        ],
+        "granted_keywords": [],
+        "removed_keywords": [],
+        "interacts_with_keywords": [],
+        "functional_text": "Equip this.\n\n**Action** - Destroy this: Your next attack this turn gets +3{p}. **Go again**\n\n**Battleworn**",
+        "functional_text_plain": "Equip this.\nAction - Destroy this: Your next attack this turn gets +3{p}. Go again\nBattleworn",
+        "type_text": "Necromancer Action Equipment - Arms",
+        "played_horizontally": false,
+        "blitz_legal": false,
+        "cc_legal": false,
+        "commoner_legal": false,
+        "ll_legal": false,
+        "silver_age_legal": false,
+        "blitz_living_legend": false,
+        "cc_living_legend": false,
+        "blitz_banned": false,
+        "cc_banned": false,
+        "commoner_banned": false,
+        "ll_banned": false,
+        "silver_age_banned": false,
+        "upf_banned": false,
+        "blitz_suspended": false,
+        "cc_suspended": false,
+        "commoner_suspended": false,
+        "ll_restricted": false,
+        "printings": [
+            {
+                "unique_id": "pWBwHncRg8wTfhDznHjwM",
+                "set_printing_unique_id": "B8Nwc79RrDqgRrqPCczFb",
+                "id": "LSS031",
+                "set_id": "LSS",
+                "edition": "N",
+                "foiling": "C",
+                "rarity": "P",
+                "expansion_slot": false,
+                "artists": [
+                    "Dzulfikar Aliy"
+                ],
+                "art_variations": [
+                    "FA"
+                ],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/LSS031-MV.webp",
+                "image_rotation_degrees": 0
+            }
+        ]
+    },
+    {
+        "unique_id": "89ckj6czdkwJcj6zDtFmT",
+        "name": "Hemlock Heels",
+        "color": "Blue",
+        "pitch": "3",
+        "cost": "3",
+        "power": "",
+        "defense": "2",
+        "health": "",
+        "intelligence": "",
+        "arcane": "",
+        "types": [
+            "Necromancer",
+            "Action",
+            "Equipment",
+            "Legs"
+        ],
+        "traits": [],
+        "card_keywords": [
+            "Battleworn"
+        ],
+        "abilities_and_effects": [
+            "Action"
+        ],
+        "ability_and_effect_keywords": [
+            "Go again"
+        ],
+        "granted_keywords": [
+            "Dominate"
+        ],
+        "removed_keywords": [],
+        "interacts_with_keywords": [],
+        "functional_text": "Equip this.\n\n**Action** - Destroy this: Your attacks this turn get **dominate**. **Go again**\n\n**Battleworn**",
+        "functional_text_plain": "Equip this.\nAction - Destroy this: Your attacks this turn get dominate. Go again\nBattleworn",
+        "type_text": "Necromancer Action Equipment - Legs",
+        "played_horizontally": false,
+        "blitz_legal": false,
+        "cc_legal": false,
+        "commoner_legal": false,
+        "ll_legal": false,
+        "silver_age_legal": false,
+        "blitz_living_legend": false,
+        "cc_living_legend": false,
+        "blitz_banned": false,
+        "cc_banned": false,
+        "commoner_banned": false,
+        "ll_banned": false,
+        "silver_age_banned": false,
+        "upf_banned": false,
+        "blitz_suspended": false,
+        "cc_suspended": false,
+        "commoner_suspended": false,
+        "ll_restricted": false,
+        "printings": [
+            {
+                "unique_id": "GwkjH8RnjpGTzcBDMfj9Q",
+                "set_printing_unique_id": "B8Nwc79RrDqgRrqPCczFb",
+                "id": "LSS032",
+                "set_id": "LSS",
+                "edition": "N",
+                "foiling": "C",
+                "rarity": "P",
+                "expansion_slot": false,
+                "artists": [
+                    "Galih M"
+                ],
+                "art_variations": [
+                    "FA"
+                ],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/LSS032-MV.webp",
+                "image_rotation_degrees": 0
+            }
+        ]
+    },
+    {
+        "unique_id": "LgRnqFJWJ6hJD7GLkwKBH",
+        "name": "Morbid Shears",
+        "color": "",
+        "pitch": "",
+        "cost": "",
+        "power": "",
+        "defense": "",
+        "health": "",
+        "intelligence": "",
+        "arcane": "",
+        "types": [
+            "Necromancer",
+            "Weapon",
+            "Shears",
+            "2H"
+        ],
+        "traits": [],
+        "card_keywords": [],
+        "abilities_and_effects": [
+            "Instant"
+        ],
+        "ability_and_effect_keywords": [],
+        "granted_keywords": [],
+        "removed_keywords": [],
+        "interacts_with_keywords": [],
+        "functional_text": "**Instant** - {r}{r}{r}, {t}: Cut your deck, then put the top card into your graveyard.\n\nThe first time you hit an opponent each turn, you may {u} this. If you do, {t} this and destroy an equipment they control.",
+        "functional_text_plain": "Instant - {r}{r}{r}, {t}: Cut your deck, then put the top card into your graveyard.\nThe first time you hit an opponent each turn, you may {u} this. If you do, {t} this and destroy an equipment they control.",
+        "type_text": "Necromancer Weapon - Shears (2H)",
+        "played_horizontally": false,
+        "blitz_legal": false,
+        "cc_legal": false,
+        "commoner_legal": false,
+        "ll_legal": false,
+        "silver_age_legal": false,
+        "blitz_living_legend": false,
+        "cc_living_legend": false,
+        "blitz_banned": false,
+        "cc_banned": false,
+        "commoner_banned": false,
+        "ll_banned": false,
+        "silver_age_banned": false,
+        "upf_banned": false,
+        "blitz_suspended": false,
+        "cc_suspended": false,
+        "commoner_suspended": false,
+        "ll_restricted": false,
+        "printings": [
+            {
+                "unique_id": "w8GznBkDhw7hRqTHNJLbg",
+                "set_printing_unique_id": "B8Nwc79RrDqgRrqPCczFb",
+                "id": "LSS026",
+                "set_id": "LSS",
+                "edition": "N",
+                "foiling": "R",
+                "rarity": "P",
+                "expansion_slot": false,
+                "artists": [
+                    "Christ Adiel Then"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/LSS026-RF.webp",
+                "image_rotation_degrees": 0
+            }
+        ]
+    },
+    {
+        "unique_id": "8mmDbBpTBTH8BQLjDWhFg",
+        "name": "Skull Candy",
+        "color": "Blue",
+        "pitch": "3",
+        "cost": "3",
+        "power": "",
+        "defense": "2",
+        "health": "",
+        "intelligence": "",
+        "arcane": "",
+        "types": [
+            "Necromancer",
+            "Action",
+            "Equipment",
+            "Head"
+        ],
+        "traits": [],
+        "card_keywords": [
+            "Battleworn"
+        ],
+        "abilities_and_effects": [
+            "Action"
+        ],
+        "ability_and_effect_keywords": [
+            "Go again"
+        ],
+        "granted_keywords": [],
+        "removed_keywords": [],
+        "interacts_with_keywords": [],
+        "functional_text": "Equip this.\n\n**Action** - Destroy this: Target hero discards a card. **Go again**\n\n**Battleworn**",
+        "functional_text_plain": "Equip this.\nAction - Destroy this: Target hero discards a card. Go again\nBattleworn",
+        "type_text": "Necromancer Action Equipment - Head",
+        "played_horizontally": false,
+        "blitz_legal": false,
+        "cc_legal": false,
+        "commoner_legal": false,
+        "ll_legal": false,
+        "silver_age_legal": false,
+        "blitz_living_legend": false,
+        "cc_living_legend": false,
+        "blitz_banned": false,
+        "cc_banned": false,
+        "commoner_banned": false,
+        "ll_banned": false,
+        "silver_age_banned": false,
+        "upf_banned": false,
+        "blitz_suspended": false,
+        "cc_suspended": false,
+        "commoner_suspended": false,
+        "ll_restricted": false,
+        "printings": [
+            {
+                "unique_id": "Pqt87w66Tcqkrkb7RrbMJ",
+                "set_printing_unique_id": "B8Nwc79RrDqgRrqPCczFb",
+                "id": "LSS029",
+                "set_id": "LSS",
+                "edition": "N",
+                "foiling": "C",
+                "rarity": "P",
+                "expansion_slot": false,
+                "artists": [
+                    "M Fakhrur Rozzi"
+                ],
+                "art_variations": [
+                    "FA"
+                ],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/LSS029-MV.webp",
+                "image_rotation_degrees": 0
+            }
+        ]
+    },
+    {
+        "unique_id": "JGPWTjMGtdpG8mPmPpH7P",
+        "name": "Sugar Casket",
+        "color": "Blue",
+        "pitch": "3",
+        "cost": "3",
+        "power": "",
+        "defense": "2",
+        "health": "",
+        "intelligence": "",
+        "arcane": "",
+        "types": [
+            "Necromancer",
+            "Action",
+            "Equipment",
+            "Chest"
+        ],
+        "traits": [],
+        "card_keywords": [
+            "Battleworn"
+        ],
+        "abilities_and_effects": [
+            "Action"
+        ],
+        "ability_and_effect_keywords": [
+            "Go again"
+        ],
+        "granted_keywords": [],
+        "removed_keywords": [],
+        "interacts_with_keywords": [],
+        "functional_text": "Equip this.\n\n**Action** - Destroy this: Gain {r}{r}{r}. **Go again**\n\n**Battleworn**",
+        "functional_text_plain": "Equip this.\nAction - Destroy this: Gain {r}{r}{r}. Go again\nBattleworn",
+        "type_text": "Necromancer Action Equipment - Chest",
+        "played_horizontally": false,
+        "blitz_legal": false,
+        "cc_legal": false,
+        "commoner_legal": false,
+        "ll_legal": false,
+        "silver_age_legal": false,
+        "blitz_living_legend": false,
+        "cc_living_legend": false,
+        "blitz_banned": false,
+        "cc_banned": false,
+        "commoner_banned": false,
+        "ll_banned": false,
+        "silver_age_banned": false,
+        "upf_banned": false,
+        "blitz_suspended": false,
+        "cc_suspended": false,
+        "commoner_suspended": false,
+        "ll_restricted": false,
+        "printings": [
+            {
+                "unique_id": "GfrhcJbNThW7qM9jmqtjz",
+                "set_printing_unique_id": "B8Nwc79RrDqgRrqPCczFb",
+                "id": "LSS030",
+                "set_id": "LSS",
+                "edition": "N",
+                "foiling": "C",
+                "rarity": "P",
+                "expansion_slot": false,
+                "artists": [
+                    "Yunior Susanto"
+                ],
+                "art_variations": [
+                    "FA"
+                ],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/LSS030-MV.webp",
+                "image_rotation_degrees": 0
+            }
+        ]
+    },
+    {
         "unique_id": "YdgR3lHbqWf8DlrNfuOaq",
         "name": "Babaza",
         "color": "",
@@ -480,6 +984,26 @@
         "commoner_suspended": false,
         "ll_restricted": false,
         "printings": [
+            {
+                "unique_id": "kjdcgKHLwqqbFgF7HdQLm",
+                "set_printing_unique_id": "j76qTFctqc8krqh9GKGmT",
+                "id": "FAB560",
+                "set_id": "FAB",
+                "edition": "N",
+                "foiling": "C",
+                "rarity": "P",
+                "expansion_slot": false,
+                "artists": [
+                    "Ramza Ardyputra"
+                ],
+                "art_variations": [
+                    "EA"
+                ],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FAB560-MV.webp",
+                "image_rotation_degrees": 0
+            },
             {
                 "unique_id": "xVJEmHIv9gZjjkVbcHYm5",
                 "set_printing_unique_id": "FLQJgTM8mbQjhmJf7qRCq",
@@ -87866,7 +88390,7 @@
                 "id": "SMP002",
                 "set_id": "SMP",
                 "edition": "N",
-                "foiling": "S",
+                "foiling": "R",
                 "rarity": "M",
                 "expansion_slot": false,
                 "artists": [
@@ -87875,10 +88399,10 @@
                 "art_variations": [],
                 "flavor_text": "",
                 "flavor_text_plain": "",
-                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SMP002.webp",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SMP002-RF.webp",
                 "image_rotation_degrees": 0,
                 "tcgplayer_product_id": "648162",
-                "tcgplayer_url": "https://www.tcgplayer.com/product/648162?Language=English&Printing=Normal"
+                "tcgplayer_url": "https://www.tcgplayer.com/product/648162?Language=English&Printing=Rainbow+Foil"
             }
         ]
     },
@@ -104448,6 +104972,24 @@
             "wbTGmgDqLtMmbDgcPzCmJ"
         ],
         "printings": [
+            {
+                "unique_id": "RHKHGhwPWGwccGJzhLF9K",
+                "set_printing_unique_id": "BKdN6bzqLnfRfPjRfz6j9",
+                "id": "ART002",
+                "set_id": "ART",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "V",
+                "expansion_slot": false,
+                "artists": [
+                    "Federico Musetti"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/ART002.webp",
+                "image_rotation_degrees": 0
+            },
             {
                 "unique_id": "KGJJRmn7dLw7jn9gzWNQ6",
                 "set_printing_unique_id": "NrpJFBQQGpNM8D9w8BBfG",
@@ -132515,6 +133057,215 @@
                 "flavor_text": "",
                 "flavor_text_plain": "",
                 "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/AMA029.webp",
+                "image_rotation_degrees": 0
+            },
+            {
+                "unique_id": "MrD89LMPMtbQWCzhDHcCd",
+                "set_printing_unique_id": "j76qTFctqc8krqh9GKGmT",
+                "id": "FAB514",
+                "set_id": "FAB",
+                "edition": "N",
+                "foiling": "C",
+                "rarity": "P",
+                "expansion_slot": false,
+                "artists": [
+                    "Sebastian Giacobino"
+                ],
+                "art_variations": [
+                    "FA"
+                ],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FAB514-MVA.webp",
+                "image_rotation_degrees": 0
+            },
+            {
+                "unique_id": "BQjftCm7GwFJhzDmJnwWk",
+                "set_printing_unique_id": "j76qTFctqc8krqh9GKGmT",
+                "id": "FAB514",
+                "set_id": "FAB",
+                "edition": "N",
+                "foiling": "C",
+                "rarity": "P",
+                "expansion_slot": false,
+                "artists": [
+                    "Sebastian Giacobino"
+                ],
+                "art_variations": [
+                    "AA",
+                    "FA"
+                ],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FAB514-MVB.webp",
+                "image_rotation_degrees": 0
+            },
+            {
+                "unique_id": "rcgnMMFw8pgQhJHzLWD6r",
+                "set_printing_unique_id": "j76qTFctqc8krqh9GKGmT",
+                "id": "FAB514",
+                "set_id": "FAB",
+                "edition": "N",
+                "foiling": "C",
+                "rarity": "P",
+                "expansion_slot": false,
+                "artists": [
+                    "Sebastian Giacobino"
+                ],
+                "art_variations": [
+                    "AA",
+                    "FA"
+                ],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FAB514-MVC.webp",
+                "image_rotation_degrees": 0
+            },
+            {
+                "unique_id": "PPctwmKd9mRKfCDKDG8Nj",
+                "set_printing_unique_id": "j76qTFctqc8krqh9GKGmT",
+                "id": "FAB514",
+                "set_id": "FAB",
+                "edition": "N",
+                "foiling": "C",
+                "rarity": "P",
+                "expansion_slot": false,
+                "artists": [
+                    "Sebastian Giacobino"
+                ],
+                "art_variations": [
+                    "AA",
+                    "FA"
+                ],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FAB514-MVD.webp",
+                "image_rotation_degrees": 0
+            },
+            {
+                "unique_id": "gTjFh7Tt6c8zJdPkGccdJ",
+                "set_printing_unique_id": "j76qTFctqc8krqh9GKGmT",
+                "id": "FAB514",
+                "set_id": "FAB",
+                "edition": "N",
+                "foiling": "C",
+                "rarity": "P",
+                "expansion_slot": false,
+                "artists": [
+                    "Sebastian Giacobino"
+                ],
+                "art_variations": [
+                    "AA",
+                    "FA"
+                ],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FAB514-MVE.webp",
+                "image_rotation_degrees": 0
+            },
+            {
+                "unique_id": "gDQkw6KQKF9T6LTKBHWQP",
+                "set_printing_unique_id": "j76qTFctqc8krqh9GKGmT",
+                "id": "FAB514",
+                "set_id": "FAB",
+                "edition": "N",
+                "foiling": "C",
+                "rarity": "P",
+                "expansion_slot": false,
+                "artists": [
+                    "Sebastian Giacobino"
+                ],
+                "art_variations": [
+                    "AA",
+                    "FA"
+                ],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FAB514-MVF.webp",
+                "image_rotation_degrees": 0
+            },
+            {
+                "unique_id": "M8zbMTgqHpwF9qCrq8KFL",
+                "set_printing_unique_id": "j76qTFctqc8krqh9GKGmT",
+                "id": "FAB514",
+                "set_id": "FAB",
+                "edition": "N",
+                "foiling": "C",
+                "rarity": "P",
+                "expansion_slot": false,
+                "artists": [
+                    "Sebastian Giacobino"
+                ],
+                "art_variations": [
+                    "AA",
+                    "FA"
+                ],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FAB514-MVG.webp",
+                "image_rotation_degrees": 0
+            },
+            {
+                "unique_id": "PfGJrq9bW9zKHkLbhqfJr",
+                "set_printing_unique_id": "j76qTFctqc8krqh9GKGmT",
+                "id": "FAB514",
+                "set_id": "FAB",
+                "edition": "N",
+                "foiling": "C",
+                "rarity": "P",
+                "expansion_slot": false,
+                "artists": [
+                    "Sebastian Giacobino"
+                ],
+                "art_variations": [
+                    "AA",
+                    "FA"
+                ],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FAB514-MVH.webp",
+                "image_rotation_degrees": 0
+            },
+            {
+                "unique_id": "R9gCdzTC8Jq8NQmCbnBGq",
+                "set_printing_unique_id": "j76qTFctqc8krqh9GKGmT",
+                "id": "FAB514",
+                "set_id": "FAB",
+                "edition": "N",
+                "foiling": "C",
+                "rarity": "P",
+                "expansion_slot": false,
+                "artists": [
+                    "Sebastian Giacobino"
+                ],
+                "art_variations": [
+                    "AA",
+                    "FA"
+                ],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FAB514-MVI.webp",
+                "image_rotation_degrees": 0
+            },
+            {
+                "unique_id": "fLTQtLzGPcbFPH9QKMKcB",
+                "set_printing_unique_id": "j76qTFctqc8krqh9GKGmT",
+                "id": "FAB514",
+                "set_id": "FAB",
+                "edition": "N",
+                "foiling": "C",
+                "rarity": "P",
+                "expansion_slot": false,
+                "artists": [
+                    "Sebastian Giacobino"
+                ],
+                "art_variations": [
+                    "AA",
+                    "FA"
+                ],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FAB514-MVJ.webp",
                 "image_rotation_degrees": 0
             },
             {
@@ -204616,8 +205367,8 @@
         "name": "Exertion Courier",
         "color": "Yellow",
         "pitch": "2",
-        "cost": "2",
-        "power": "3",
+        "cost": "3",
+        "power": "4",
         "defense": "3",
         "health": "",
         "intelligence": "",
@@ -232315,6 +233066,26 @@
                         "is_DFC": false
                     }
                 ]
+            },
+            {
+                "unique_id": "rTNRcLwDKhBNcBtpkfnTt",
+                "set_printing_unique_id": "B8Nwc79RrDqgRrqPCczFb",
+                "id": "LSS025",
+                "set_id": "LSS",
+                "edition": "N",
+                "foiling": "R",
+                "rarity": "P",
+                "expansion_slot": false,
+                "artists": [
+                    "soyameii"
+                ],
+                "art_variations": [
+                    "EA"
+                ],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/LSS025-RF.webp",
+                "image_rotation_degrees": 0
             }
         ]
     },
@@ -270305,6 +271076,24 @@
                 "tcgplayer_url": "https://www.tcgplayer.com/product/565556?Language=English&Printing=Normal"
             },
             {
+                "unique_id": "pmMQmtTqNbnjRNjf9hfMp",
+                "set_printing_unique_id": "fH8hKWnpHw9MWq7jFhkKT",
+                "id": "ROS029",
+                "set_id": "ROS",
+                "edition": "N",
+                "foiling": "C",
+                "rarity": "C",
+                "expansion_slot": false,
+                "artists": [
+                    "Esty Swandana"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/ROS029-CF.webp",
+                "image_rotation_degrees": 0
+            },
+            {
                 "unique_id": "TbM96Nk6QFgkwwgChBf7p",
                 "set_printing_unique_id": "H6wgFMHLKRwmPDKTwNnPF",
                 "id": "VER003",
@@ -295734,8 +296523,8 @@
         "name": "Inertia Courier",
         "color": "Blue",
         "pitch": "3",
-        "cost": "2",
-        "power": "2",
+        "cost": "4",
+        "power": "4",
         "defense": "3",
         "health": "",
         "intelligence": "",
@@ -368318,6 +369107,26 @@
                 "flavor_text_plain": "",
                 "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/LSS022-CF.webp",
                 "image_rotation_degrees": 0
+            },
+            {
+                "unique_id": "q9B6LgHGFR9cKFgbzWFKP",
+                "set_printing_unique_id": "B8Nwc79RrDqgRrqPCczFb",
+                "id": "LSS028",
+                "set_id": "LSS",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "P",
+                "expansion_slot": false,
+                "artists": [
+                    "寿多浩 (Hiro Suda)"
+                ],
+                "art_variations": [
+                    "EA"
+                ],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/LSS028.webp",
+                "image_rotation_degrees": 0
             }
         ]
     },
@@ -407917,6 +408726,24 @@
                 "image_rotation_degrees": 0,
                 "tcgplayer_product_id": "238499",
                 "tcgplayer_url": "https://www.tcgplayer.com/product/238499?Language=English&Printing=Rainbow+Foil"
+            },
+            {
+                "unique_id": "69rmqN7NRr9GtqLntqbGm",
+                "set_printing_unique_id": "jFWLRtB7MjFFLbNFRCLcT",
+                "id": "XXX012",
+                "set_id": "XXX",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "P",
+                "expansion_slot": false,
+                "artists": [
+                    "Livia Prima"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/XXX012-A.webp",
+                "image_rotation_degrees": 0
             }
         ]
     },
@@ -408034,6 +408861,26 @@
                 "image_rotation_degrees": 0,
                 "tcgplayer_product_id": "503312",
                 "tcgplayer_url": "https://www.tcgplayer.com/product/503312?Language=English&Printing=Cold+Foil"
+            },
+            {
+                "unique_id": "GMDWdFqBGp6wP7cKtdNWh",
+                "set_printing_unique_id": "NrpJFBQQGpNM8D9w8BBfG",
+                "id": "HER111",
+                "set_id": "HER",
+                "edition": "N",
+                "foiling": "R",
+                "rarity": "P",
+                "expansion_slot": false,
+                "artists": [
+                    "Livia Prima"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/HER111-RF.webp",
+                "image_rotation_degrees": 0,
+                "tcgplayer_product_id": "543027",
+                "tcgplayer_url": "https://www.tcgplayer.com/product/543027?Language=English&Printing=Rainbow+Foil"
             },
             {
                 "unique_id": "cfDLLncWk6qR8bbhWhQCW",
@@ -408222,26 +409069,6 @@
                 "tcgplayer_url": "https://www.tcgplayer.com/product/517559?Language=English&Printing=Cold+Foil"
             },
             {
-                "unique_id": "GMDWdFqBGp6wP7cKtdNWh",
-                "set_printing_unique_id": "NrpJFBQQGpNM8D9w8BBfG",
-                "id": "HER111",
-                "set_id": "HER",
-                "edition": "N",
-                "foiling": "R",
-                "rarity": "P",
-                "expansion_slot": false,
-                "artists": [
-                    "Livia Prima"
-                ],
-                "art_variations": [],
-                "flavor_text": "",
-                "flavor_text_plain": "",
-                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/HER111-RF.webp",
-                "image_rotation_degrees": 0,
-                "tcgplayer_product_id": "543027",
-                "tcgplayer_url": "https://www.tcgplayer.com/product/543027?Language=English&Printing=Rainbow+Foil"
-            },
-            {
                 "unique_id": "TtHctWk9cpnCWGBqwFNdp",
                 "set_printing_unique_id": "LWc9gCNhcGWHCP6KcGzbj",
                 "id": "WIN023",
@@ -408333,6 +409160,24 @@
                 "flavor_text": "",
                 "flavor_text_plain": "",
                 "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/APR001.webp",
+                "image_rotation_degrees": 0
+            },
+            {
+                "unique_id": "kkC8CzCDw7QfFgM7jrjFC",
+                "set_printing_unique_id": "BKdN6bzqLnfRfPjRfz6j9",
+                "id": "ART001",
+                "set_id": "ART",
+                "edition": "N",
+                "foiling": "S",
+                "rarity": "V",
+                "expansion_slot": false,
+                "artists": [
+                    "Livia Prima"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/ART001.webp",
                 "image_rotation_degrees": 0
             },
             {
@@ -574306,7 +575151,7 @@
         "pitch": "",
         "cost": "",
         "power": "",
-        "defense": "3",
+        "defense": "2",
         "health": "",
         "intelligence": "",
         "arcane": "",
@@ -574449,42 +575294,6 @@
                 "art_variations": [
                     "FA"
                 ],
-                "flavor_text": "",
-                "flavor_text_plain": "",
-                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/JDG062-CF.webp",
-                "image_rotation_degrees": 0
-            },
-            {
-                "unique_id": "P56JGcNWn3uKWwzoql06H",
-                "set_printing_unique_id": "hqBm7CnKjCWzKBQcph89t",
-                "id": "JDG062",
-                "set_id": "JDG",
-                "edition": "N",
-                "foiling": "C",
-                "rarity": "P",
-                "expansion_slot": false,
-                "artists": [
-                    "Federico Musetti"
-                ],
-                "art_variations": [],
-                "flavor_text": "",
-                "flavor_text_plain": "",
-                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/JDG062-CF.webp",
-                "image_rotation_degrees": 0
-            },
-            {
-                "unique_id": "VVOBhlqHKgykPavObzlZO",
-                "set_printing_unique_id": "hqBm7CnKjCWzKBQcph89t",
-                "id": "JDG062",
-                "set_id": "JDG",
-                "edition": "N",
-                "foiling": "C",
-                "rarity": "P",
-                "expansion_slot": false,
-                "artists": [
-                    "Federico Musetti"
-                ],
-                "art_variations": [],
                 "flavor_text": "",
                 "flavor_text_plain": "",
                 "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/JDG062-CF.webp",
@@ -598810,6 +599619,24 @@
                 "image_rotation_degrees": 0,
                 "tcgplayer_product_id": "633615",
                 "tcgplayer_url": "https://www.tcgplayer.com/product/633615?Language=English&Printing=Cold+Foil"
+            },
+            {
+                "unique_id": "hRnPgQDJFbHJGM7HkNNg6",
+                "set_printing_unique_id": "7BqWG8Lr8FRNHwWtP8GN6",
+                "id": "SEA010",
+                "set_id": "SEA",
+                "edition": "N",
+                "foiling": "R",
+                "rarity": "C",
+                "expansion_slot": false,
+                "artists": [
+                    "Andi Cahyo W"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SEA010-RF.webp",
+                "image_rotation_degrees": 0
             }
         ]
     },
@@ -618242,6 +619069,26 @@
                 "tcgplayer_url": "https://www.tcgplayer.com/product/503311?Language=English&Printing=Cold+Foil"
             },
             {
+                "unique_id": "GWQ6Wt9mRFdtT6zGrDqKF",
+                "set_printing_unique_id": "NrpJFBQQGpNM8D9w8BBfG",
+                "id": "HER112",
+                "set_id": "HER",
+                "edition": "N",
+                "foiling": "R",
+                "rarity": "P",
+                "expansion_slot": false,
+                "artists": [
+                    "Federico Musetti"
+                ],
+                "art_variations": [],
+                "flavor_text": "",
+                "flavor_text_plain": "",
+                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/HER112-RF.webp",
+                "image_rotation_degrees": 0,
+                "tcgplayer_product_id": "543033",
+                "tcgplayer_url": "https://www.tcgplayer.com/product/543033?Language=English&Printing=Rainbow+Foil"
+            },
+            {
                 "unique_id": "7rZ3kvoS3dxGOtqoF4Myi",
                 "set_printing_unique_id": "hqBm7CnKjCWzKBQcph89t",
                 "id": "JDG085",
@@ -618396,26 +619243,6 @@
                 "image_rotation_degrees": 0,
                 "tcgplayer_product_id": "554804",
                 "tcgplayer_url": "https://www.tcgplayer.com/product/554804?Language=English&Printing=Cold+Foil"
-            },
-            {
-                "unique_id": "GWQ6Wt9mRFdtT6zGrDqKF",
-                "set_printing_unique_id": "NrpJFBQQGpNM8D9w8BBfG",
-                "id": "HER112",
-                "set_id": "HER",
-                "edition": "N",
-                "foiling": "R",
-                "rarity": "P",
-                "expansion_slot": false,
-                "artists": [
-                    "Federico Musetti"
-                ],
-                "art_variations": [],
-                "flavor_text": "",
-                "flavor_text_plain": "",
-                "image_url": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/HER112-RF.webp",
-                "image_rotation_degrees": 0,
-                "tcgplayer_product_id": "543033",
-                "tcgplayer_url": "https://www.tcgplayer.com/product/543033?Language=English&Printing=Rainbow+Foil"
             },
             {
                 "unique_id": "wBRfpDpqMdDbctLj8r7tR",
@@ -633001,7 +633828,9 @@
             "Event"
         ],
         "traits": [],
-        "card_keywords": [],
+        "card_keywords": [
+            "Wager"
+        ],
         "abilities_and_effects": [],
         "ability_and_effect_keywords": [],
         "granted_keywords": [],

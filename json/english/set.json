@@ -560,6 +560,27 @@
         ]
     },
     {
+        "unique_id": "jhBWPRCzcTkW8TCBW77Lj",
+        "id": "ART",
+        "name": "Dusk till Dawn",
+        "printings": [
+            {
+                "unique_id": "BKdN6bzqLnfRfPjRfz6j9",
+                "edition": "N",
+                "start_card_id": "ART001",
+                "end_card_id": "ART002",
+                "initial_release_date": null,
+                "out_of_print": false,
+                "card_database": null,
+                "product_page": null,
+                "collectors_center": null,
+                "card_gallery": null,
+                "release_notes": null,
+                "set_logo": null
+            }
+        ]
+    },
+    {
         "unique_id": "gmPW6zdL8Fkcd7T6Fghdb",
         "id": "ASB",
         "name": "Armory Deck - Boltyn",
@@ -1541,7 +1562,7 @@
                 "unique_id": "B8Nwc79RrDqgRrqPCczFb",
                 "edition": "N",
                 "start_card_id": "LSS001",
-                "end_card_id": "LSS024",
+                "end_card_id": "LSS033",
                 "initial_release_date": null,
                 "out_of_print": false,
                 "card_database": null,
