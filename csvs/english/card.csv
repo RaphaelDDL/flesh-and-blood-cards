@@ -477,7 +477,7 @@ DgpbP8LBpCffdNgH8t9LB	Alluvion Constellas					0				Wizard, Equipment, Chest		Arc
 **Instant** - Remove 2 energy counters from this: The next staff ability you activate this turn costs {r}{r}{r} less to activate.
 
 **Arcane Barrier 1**"	Wizard Equipment - Chest				No	No	
-kBJJjzp8KMrRWcwMwKWcW	Alpha Instinct	Blue	3	3	6	0				Brute, Action, Attack	Rhinar Specialization	Rhinar Specialization						"**Rhinar Specialization**
+kBJJjzp8KMrRWcwMwKWcW	Alpha Instinct	Blue	3	3	6	0				Brute, Action, Attack		Rhinar Specialization						"**Rhinar Specialization**
 
 When this is discarded to beat chest, create a Might token."	Brute Action - Attack				No	No	
 GgDFFHhLh8Kc7tJK8nBLj	Alpha Rampage	Red	1	3	9	3				Brute, Attack, Action		Rhinar Specialization, Intimidate						"**Rhinar Specialization**
@@ -1100,7 +1100,7 @@ CdnTg7KmhKzWpJcd9JHrR	Bask in Your Own Greatness	Blue	3	0	2	2				Reviled, Action
 **Temper**"	Guardian Equipment - Off-Hand						
 QKgbfzgpnzfq7HKgWTzRg	Bastion of Unity					1				Warrior, Equipment, Off-Hand		Unity, Temper						"**Unity** - When this defends together with a card from hand, this gets +1{d} until end of turn.
 
-**Temper**"	Warrior Equipment - Off-hand				No	No	
+**Temper**"	Warrior Equipment - Off-Hand				No	No	
 jBMwChDGmJjp7GrhnzdwQ	Battalion Barque	Red	1	4	7	3				Pirate, Action, Attack		High Tide						**High Tide** - If there are 2 or more blue cards in your pitch zone, this gets +2{p}.	Pirate Action - Attack						
 gPkmHM8hGHGdkDTfCdbDP	Battalion Barque	Yellow	2	4	6	3				Pirate, Action, Attack		High Tide						**High Tide** - If there are 2 or more blue cards in your pitch zone, this gets +2{p}.	Pirate Action - Attack						
 CKgkPBMkGRkNzrDbdRttC	Battalion Barque	Blue	3	4	5	3				Pirate, Action, Attack		High Tide						**High Tide** - If there are 2 or more blue cards in your pitch zone, this gets +2{p}.	Pirate Action - Attack						
@@ -1762,7 +1762,7 @@ qJ7GMMpjmGBpPKLHcnJc9	Blunt Retort					1				Warrior, Equipment, Head		Blade Brea
 
 **Blade Break**"	Warrior Equipment - Head						
 RHPQfjcCgDTBLmWrNKGbR	Blunten	Yellow	2			2				Warrior, Block								When this defends a weapon attack, the attacking hero discards a card.	Warrior Block				No	No	
-9prz8nBBPGdwQqttNdJJz	Blur Reality	Blue	3	0						Lightning, Illusionist, Instant								Banish a Lightning aura permanent you control with no holo counters, then return it to the arena with a holo counter.	Lightning, Illusionist, Instant					No	
+9prz8nBBPGdwQqttNdJJz	Blur Reality	Blue	3	0						Lightning, Illusionist, Instant								Banish a Lightning aura permanent you control with no holo counters, then return it to the arena with a holo counter.	Lightning Illusionist Instant					No	
 rmgJwFTgdKNFc8LcPKbJJ	Bluster Buff	Red	1	1	6	3				Generic, Action, Attack								When this attacks, it gets -1{p} unless you pay {r}.	Generic Action - Attack					No	
 nGCNDPFfPdhBFqBQBPWwk	Board the Ship	Red	1	2	6	3				Pirate, Necromancer, Action, Attack		Overpower						When this attacks, you may {t} an ally you control. If you do, this gets **overpower**.	Pirate Necromancer Action - Attack					No	
 LmKFmh8JznLWB8mTjmRcC	Boast	Blue	3			3				Guardian, Block							Clash	This gets +X{d} while defending, where X is twice the number of **clashes** you've won this turn.	Guardian Block				No	No	
@@ -1827,7 +1827,7 @@ RGd9j6fF9Nn8NFB9B6pfN	Bonds of Memory	Blue	3	0	1	3				Assassin, Action, Attack		
 When this hits a hero, banish the top card of their deck, then banish a card from their graveyard.
 
 Whenever this banishes a card and this has banished another card with the same name, gain 1{h}."	Assassin Action - Attack						
-TKjfwJ6tqMrfNr6qWdMwR	Bone Barrier	Blue	3	0		2				Necromancer, Defense Reaction								When this defends, you may destroy an ally you control or discard an ally. If you do, this gets +2{d}.	Necromancer Defence Reaction				No	No	
+TKjfwJ6tqMrfNr6qWdMwR	Bone Barrier	Blue	3	0		2				Necromancer, Defense Reaction								When this defends, you may destroy an ally you control or discard an ally. If you do, this gets +2{d}.	Necromancer Defense Reaction				No	No	
 LCbjKjHJJd8JJDNWrd6CC	Bone Basher				4					Brute, Weapon, Club, 2H			Attack					**Once per Turn Action** - {r}{r}: **Attack**	Brute Weapon - Club (2H)						
 FtpGCGDBMdRPgcbb7MTdM	Bone Head Barrier	Yellow	2	1						Brute, Instant								Roll a 6 sided die. Prevent the next X damage that would be dealt to you this turn, where X is the number rolled.	Brute Instant					No	
 gfrG9hD8BQfqgwnjNRtWt	Bone Mass	Red	1	0	3	2				Shadow, Necromancer, Action, Attack		Go again						"When this attacks, you may discard a zombie. If you do, your next attack this turn gets +1{p}.
@@ -2781,13 +2781,13 @@ nHTwDwq8BDnkdPrc9c9bW	Comeback Kid	Blue	3	3	5	3				Revered, Action, Attack		The 
 If you've been cheered this turn, this gets +1{p}."	Revered Action - Attack					No	
 BRdKgPG6pJk8pGT7CWCpB	Comet Collision	Red	1	0		3			3	Lightning, Wizard, Action		Starfall						"Deal 3 arcane damage to any target.
 
-**Starfall** - If an instant card has been put into your graveyard this turn, instead deal 4 arcane damage."	Lightning Wizard Instant						
+**Starfall** - If an instant card has been put into your graveyard this turn, instead deal 4 arcane damage."	Lightning Wizard Action						
 kLgnHP8nHtnMwHfqN9zkp	Comet Collision	Yellow	2	0		3			2	Lightning, Wizard, Action		Starfall						"Deal 2 arcane damage to any target.
 
-**Starfall** - If an instant card has been put into your graveyard this turn, instead deal 3 arcane damage."	Lightning Wizard Instant						
+**Starfall** - If an instant card has been put into your graveyard this turn, instead deal 3 arcane damage."	Lightning Wizard Action						
 Mbrg9P78qm9PGCdPLbncD	Comet Collision	Blue	3	0		3			1	Lightning, Wizard, Action		Starfall						"Deal 1 arcane damage to any target.
 
-**Starfall** - If an instant card has been put into your graveyard this turn, instead deal 2 arcane damage."	Lightning Wizard Instant						
+**Starfall** - If an instant card has been put into your graveyard this turn, instead deal 2 arcane damage."	Lightning Wizard Action						
 hNtpt77b8dGgTbkCqzCLB	Comet Storm // Shock	Red	1	2		3			6	Wizard, Action, Lightning, Instant		Meld						"**Meld**
 
 Deal 5 arcane damage to any target.
@@ -3179,7 +3179,7 @@ If a hero has lost {h} this turn, you may play this as though it were an instant
 
 Each hero banishes a card from their hand.
 
-**Blood Debt**"	Shadow, Runeblade, Action				No	No	
+**Blood Debt**"	Shadow Runeblade Action				No	No	
 Hbj86fDdmMwRkCMpwwfNw	Cullingsong Gloomblade	Red	1	0	2	3				Shadow, Runeblade, Action, Attack		Usurp, Blood Debt						"You may play this from your banished zone.
 
 **Usurp**
@@ -3524,7 +3524,7 @@ wmdN6gnj6gdcdfWDMnqK6	Demonstrate Devotion	Red	1	1	4	2				Draconic, Ninja, Actio
 N7cmt79CtPd8dJmwDdpFC	Demoralize the Dracai	Red	1	1	5	3				Assassin, Action, Attack		Contract						"**Contract** - You are contracted to banish opponents' red cards. Whenever you complete this contract, create a Silver token.
 
 Whenever an attack action card you control hits a hero, banish the top card of their deck."	Assassin Action - Attack				No	No	
-jmNMNj8FrgJCR8dCcbmTr	Den of the Spider	Red	1	0		3				Assassin, Warrior, Defense Reaction, Trap					Mark			When this defends an attack with {p} greater than its base, **mark** the attacking hero.	Assassin / Warrior Action Defense Reaction - Trap						
+jmNMNj8FrgJCR8dCcbmTr	Den of the Spider	Red	1	0		3				Assassin, Warrior, Defense Reaction, Trap					Mark			When this defends an attack with {p} greater than its base, **mark** the attacking hero.	Assassin / Warrior Defense Reaction - Trap						
 gyXwwxMbXWMrrIGwZtlXu	Den of Thieves									Event		Steal						"Each Thief hero may **steal** a token from another hero.
 
 Flip the top card of the event deck."	Event		No	No	No	No	No
@@ -3766,7 +3766,7 @@ If a hero would create 1 or more tokens from a **wager** this turn, instead they
 **Go again**"	Guardian / Warrior Action				No	No	
 PrzDDzhJCLMPdrJDzrrpr	Double Strike	Red	1	0	1	2				Ninja, Action, Attack		Go again						"When this chain link resolves, banish this. You may play it this combat chain. If you do, it loses this ability.
 
-**Go again**"	Nina Action - Attack				No	No	
+**Go again**"	Ninja Action - Attack				No	No	
 qHT6BFpP7DTCFHwGz6hDR	Double Trouble	Red	1	0	3	3				Assassin, Action, Attack		Stealth						"**Stealth**
 
 If you've played or activated 2 or more attack reactions this chain link, this gets +2{p} and ""When this hits a hero, banish the top 2 cards of their deck."""	Assassin Action - Attack					No	
@@ -6429,7 +6429,7 @@ JHGDt9dft6zcwHdWrqKqC	Honed for Honor	Blue	3	0		3				Warrior, Action		Sharpen, G
 If it has 3 or more +1{p} counters, you may put an attack reaction card from your graveyard on top of your deck.
 
 **Go again**"	Warrior Action				No	No	
-zc8n8JQRfBTPHGfnBmw8L	Honing Hood			0		0				Ranger, Equipment, Head			Instant					**Instant** - Destroy this: Return all cards in your arsenal to your hand, then put a card from your hand face-down into your arsenal.	Ranger Equipment - Head						
+zc8n8JQRfBTPHGfnBmw8L	Honing Hood					0				Ranger, Equipment, Head			Instant					**Instant** - Destroy this: Return all cards in your arsenal to your hand, then put a card from your hand face-down into your arsenal.	Ranger Equipment - Head						
 6ntF8Rdm7PqLkHWnPMkrF	Hood of Red Sand					1				Warrior, Equipment, Head		Kassai Specialization, Battleworn	Attack Reaction					"**Kassai Specialization**
 
 **Attack Reaction** - {r}, banish a red and a yellow card from your graveyard, destroy this: Target sword attack gets ""When this hits, draw a card.""
@@ -7148,7 +7148,7 @@ kg8PPbzPQHbJBccCwwh6f	Laden with Lightning	Red	1	1		2				Elemental, Action		Ligh
 rpqF9GbWN7Kkb6hPKPnJk	Lady Barthimont					3				Brute, Mentor					Dominate		Specialization	"While Barthimont is face-down in arsenal, at the start of your turn, you may turn her face-up.
 
 While Barthimont is face-up in arsenal, whenever you play an attack action card, banish the top card of your deck. If the banished card has 6 or more {p}, put a lesson counter on Barthimont and the attack gets **dominate**. Then if there are 2 or more lesson counters on Barthimont, banish her, search your deck for a card with **specialization**, put it face-up into your arsenal, and shuffle."	Brute Mentor			No	No	No	No
-mMzzGF76cFfFHJQJTFcnB	Lair of the Spider	Red	1	0		3				Assassin, Ninja, Defense Reaction, Trap		Mark					Go again	When this defends an attack with **go again**, **mark** the attacking hero.	Assassin / Ninja Action Defense Reaction - Trap						
+mMzzGF76cFfFHJQJTFcnB	Lair of the Spider	Red	1	0		3				Assassin, Ninja, Defense Reaction, Trap		Mark					Go again	When this defends an attack with **go again**, **mark** the attacking hero.	Assassin / Ninja Defense Reaction - Trap						
 hncGgJt68zkrcnFFCqfm9	Languid Pace	Blue	3	1	3	2				Assassin, Action, Attack								When this attacks or defends, create an Inertia token under each hero's control.	Assassin Action - Attack					No	
 qmzNwRPnh8gkrdKdLwCbt	Last Ditch Effort	Blue	3	3	4	3				Generic, Action, Attack		Go again						When this is played, if you have no cards in your deck, this gets +4{p} and **go again**.	Generic Action - Attack					No	
 mm6rHKbCkKKfD6h6tCMcK	Laughing Knee-Slappers					1				Reviled, Brute, Equipment, Legs		Blade Break						"If you control a Might and a Vigor token, this gets +2{d}.
@@ -7497,7 +7497,7 @@ bctJhnLdnWB9tqBJ6nNTN	Lost in Thought	Red	1	1		2				Illusionist, Action		Go agai
 **Go again**"	Illusionist Action				No	No	
 KddkfBmzB78rpH6j6CfBC	Lost in Transit	Yellow	2			3				Pirate, Block								When this defends, you may remove a gold counter from Treasure Island. If you do and you are a Thief, create a Gold token.	Pirate Block					No	
 mnFrMd8TfpRFw7zrQ7b8B	Low Blow	Red	1	1	3	3				Reviled, Action, Attack							The Crowd Boos	If you've been booed this turn, this gets +3{p}.	Reviled Action - Attack						
-9PCRhmGdjtCwJcn8hgn6t	Loyalty Beyond the Grave	Red	1	0		3				Draconic, Defense Reaction								While this is in your graveyard, at the start of your turn, you may banish 2 cards named Loyalty Beyond the Grave from your graveyard. If you do, draw a card.	Draconic, Defense Reaction				No	No	
+9PCRhmGdjtCwJcn8hgn6t	Loyalty Beyond the Grave	Red	1	0		3				Draconic, Defense Reaction								While this is in your graveyard, at the start of your turn, you may banish 2 cards named Loyalty Beyond the Grave from your graveyard. If you do, draw a card.	Draconic Defense Reaction				No	No	
 pKtKBmHB8P6Nwr8TP7p6D	Lubricate	Blue	3	0						Mechanologist, Instant								{u} up to 3 cogs you control.	Mechanologist Instant					No	
 L8wq9HzdqTwM8tLWCRGcR	Lumina Ascension	Yellow	2	0		3				Light, Warrior, Action		Boltyn Specialization, Go again					Charge	"**Boltyn Specialization**
 
@@ -8144,7 +8144,7 @@ BqJ76BGQWgFpPddRMQrQc	New Horizon					2				Ranger, Equipment, Head		Blade Break	
 When this is destroyed, destroy all cards in your arsenal.
 
 **Blade Break**"	Ranger Equipment - Head				No	No	
-qt8PTt8T8bzqm9jFJ8c8F	Night's Embrace	Blue	3			3				Assassin, Attack Reaction							Stealth	Your attacks with stealth get +1{p} this turn.	Assassin Attack Reaction					No	
+qt8PTt8T8bzqm9jFJ8c8F	Night's Embrace	Blue	3	0		3				Assassin, Attack Reaction							Stealth	Your attacks with stealth get +1{p} this turn.	Assassin Attack Reaction					No	
 tfgqfmpf8PtwhJqcBKDwB	Nimble Strike	Red	1	1	4	2				Generic, Action, Attack								As an additional cost to play this, you may banish a Nimblism from your graveyard. If you do, this gets +1{p} and **go again**.	Generic Action - Attack						
 6M6NPTgtR8MTpJJrDMtRW	Nimble Strike	Yellow	2	1	3	2				Generic, Action, Attack								As an additional cost to play this, you may banish a Nimblism from your graveyard. If you do, this gets +1{p} and **go again**.	Generic Action - Attack						
 dKnLDB7TncwgzFwBf8jfz	Nimble Strike	Blue	3	1	2	2				Generic, Action, Attack								As an additional cost to play this, you may banish a Nimblism from your graveyard. If you do, this gets +1{p} and **go again**.	Generic Action - Attack						
@@ -8277,7 +8277,7 @@ Play this only if you control exactly 6 Runechants.
 
 Create a Nasreth, the Soul Harrower token."	Shadow Runeblade Instant				No	No	
 qMBpL7WdHmD7rgtMwQpfR	Obsidian Fire Vein				1					Draconic, Warrior, Weapon, Dagger, 1H			Once per Turn Action	Attack, Go again				**Once per Turn Action** - {r}: **Attack**. If you've played a Draconic card this chain link, this attack gets +1{p} and **go again**.	Draconic Warrior Weapon - Dagger (1H)						
-PcKQPM7Qw6JQGpqbkDNWD	Odds on Favorite	Blue	3	0		3				Warrior, Action	Go again	Go again, Wager		Wager				"Your next sword attack this turn gets ""When this attacks, **wager** with the defending hero. The winner searches their deck for a card, shuffles, then puts that card on top.""
+PcKQPM7Qw6JQGpqbkDNWD	Odds on Favorite	Blue	3	0		3				Warrior, Action		Go again, Wager		Wager				"Your next sword attack this turn gets ""When this attacks, **wager** with the defending hero. The winner searches their deck for a card, shuffles, then puts that card on top.""
 
 **Go again**"	Warrior Action				No	No	
 DWcKpdjNKBcK67WpPb9Qf	Ode to Wrath	Yellow	2	4						Light, Illusionist, Instant, Aura		Spectra			Go again			"Whenever a source you control deals damage to an opponent, they lose 1{h}.
@@ -8288,7 +8288,7 @@ Illusionist attack action cards you control get **go again**.
 6wNwBJcdhW7G7ghRp9mpG	Off Beat	Blue	3	0		3				Warrior, Action		Sharpen, Go again						"Destroy up to 1 Blade Dance and/or Flurry token. **Sharpen** target sword you control for each token destroyed this way.
 
 **Go again**"	Warrior Action					No	
-HrhpmTCdRFLw9HnqcqCrT	Off Cuts	Blue	3	3		3				Necromancer, Action	Frankie Specialization, Go again	Frankie Specialization, Go again						"**Frankie Specialization**
+HrhpmTCdRFLw9HnqcqCrT	Off Cuts	Blue	3	3		3				Necromancer, Action		Frankie Specialization, Go again						"**Frankie Specialization**
 
 Each hero destroys an equipment they control.
 
@@ -8636,7 +8636,7 @@ At the beginning of your end phase, put a sand counter on this, then destroy it 
 
 This gets +2{d} while defending a weapon attack.
 
-**Blade Break**"	Warror Weapon Equipment - Sword (1H)						
+**Blade Break**"	Warrior Weapon Equipment - Sword (1H)						
 m9tj8WGNNjQPt8wjMqFFf	Pass Over	Blue	3	0						Mystic, Instant		Legendary, Transcend						"**Legendary**
 
 Banish target card from an opposing hero's graveyard.
@@ -10587,7 +10587,7 @@ CCwMfr7DptzKNpLPDwtDc	Rusted Relic	Blue	3	0						Generic, Action, Item		Arcane B
 CMbMkj6F86Kj9kPKNBwPN	Rusty Harpoon	Blue	3	0	1	3				Pirate, Ranger, Action, Arrow, Attack									Pirate Ranger Action - Arrow Attack						
 hRMhmf8qkn6pR7TWQLqgb	Ruu'di, Gem Keeper						40	4		Hero, Merchant			Once per Turn Action	Go again				"You may only have PSA graded cards in your deck.
 
-**Once per Turn Action** - {r}: Reveal the top card of your deck. If it's graded Gem Mint 10, put it into your hand, otherwise each opponent may draw a card. **Go again**"	Hero - Merchant		No		No	No	
+**Once per Turn Action** - {r}: Reveal the top card of your deck. If it's graded Gem Mint 10, put it into your hand, otherwise each opponent may draw a card. **Go again**"	Merchant Hero		No		No	No	
 bdCCWJQKkgjTNrH8PbnwQ	Sack the Shifty	Red	1	0	4	3				Assassin, Action, Attack		Contract					Go again	"**Contract** - You are contracted to banish opponents' cards with base **go again**. Whenever you complete this contract, create a Silver token.
 
 When this hits a hero, banish the top card of their deck."	Assassin Action - Attack						
@@ -11221,7 +11221,7 @@ RD7rFNprgNp9HBwwTTk88	Sharpened Senses	Yellow	2	0		3				Warrior, Action, Aura		G
 
 Your weapon attacks get +1{p}. If their {p} is greater than twice their base, they get **go again**.
 
-At the beginning of your end phase, destroy this."	Warior Action - Aura				No	No	
+At the beginning of your end phase, destroy this."	Warrior Action - Aura				No	No	
 HRKwRGWdmgQrf7BGPnzK7	Sharpening Sparks	Red	1	0		3				Warrior, Attack Reaction					Sharpen			"Target sword attack gets +2{p} and ""When this hits, **sharpen** this sword."""	Warrior Attack Reaction				No	No	
 RJNjgKCzrKtWJfdqRPMhg	Shatter	Yellow	2	0		3				Warrior, Attack Reaction								"Until end of turn, target 2H weapon gets ""If this would deal {p} damage, instead you may destroy target defending equipment with {d} less than the damage that would be dealt this way."	Warrior Attack Reaction				No	No	
 KCRhRBTqwf9mRfjmGnQL6	Shatter Sorcery	Blue	3	0						Generic, Instant								"Choose 1 or both;
@@ -12543,7 +12543,7 @@ BPBGnPJNMhNq77TfLcr6d	Suraya, Archangel of Endless Hope				4		4			Light, Angel, 
 
 **Once per Turn Action** - {r}{r}: **Attack**
 
-**Ward 4**"	Light Illusionist Instant - Figment					No	
+**Ward 4**"	Light - Angel Ally					No	
 JR9JmbdnQ8mTLfjMHf9n8	Suraya, Archangel of Erudition				4		4			Light, Angel, Ally		Ward 4	Once per Turn Action	Attack				"**Once per Turn Action** - {r}{r}: **Attack**
 
 When Suraya attacks, you may banish a card from your hero's soul. If you do, draw 2 cards.
@@ -12683,7 +12683,7 @@ LNDpF7dJmJ9CzczmmnQqp	Tailored Targeting	Red	1	0	4	3				Assassin, Action, Attack
 
 **Contract** - You are contracted to banish opponents' cards with the chosen name. Whenever you complete this contract, create a Silver token.
 
-Whenever you hit an opposing hero this chain link, banish the top card of their deck. If it's the named card, repeat this process"	Assassin Action - Attack				No	No	
+Whenever you hit an opposing hero this chain link, banish the top card of their deck. If it's the named card, repeat this process."	Assassin Action - Attack				No	No	
 FtGCjcNCNGg9MkDMwtKCN	Taipanis, Dracai of Judgement						20	4		Draconic, Adjudicator, Hero								The first time each turn another hero becomes the target of a source that would deal lethal damage, you may discard a red card. If you do, choose new targets for that source.	Draconic Adjudicator Hero		No		No	No	
 hFhjbTW96DmWQPBP8C8HF	Take Aim	Red	1	0		2				Ranger, Action		Reload, Go again						"The next Ranger attack action card you play this turn gets +3{p}.
 
@@ -13964,7 +13964,7 @@ cQcb7dCwJWGt6jMrDdtRz	Volatile Fluxor	Blue	3	0	0	3				Lightning, Action, Attack	
 When this hits, create a Lightning Flow token.
 
 **Go again**"	Lightning Action - Attack						
-8tGLHwNjzzJdqkjhhKBRb	Volcanic Vice					0				Guardian, Equipment, Arms		Spellvoid 3						If you've created a Seismic Surge this turn, this gets **spellvoid 3**.	Gaurdian Equipment - Arms						
+8tGLHwNjzzJdqkjhhKBRb	Volcanic Vice					0				Guardian, Equipment, Arms		Spellvoid 3						If you've created a Seismic Surge this turn, this gets **spellvoid 3**.	Guardian Equipment - Arms						
 Nzpgn9HrbNfkzM8CkwCQp	Voltaire, Strike Twice									Elemental, Ranger, Weapon, Bow, 2H			Twice per Turn Instant		Go again			"**Twice per Turn Instant** - {r}: You may put an arrow card from your hand face-up into your arsenal. If you do, choose 1;
 
 - It gets +1{p} until end of turn.
